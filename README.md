@@ -1,7 +1,7 @@
-# Temporary-File-Cleaner
+# Windows-Temporary-File-Cleaner
 
 ## Description
-A python script which will delete all temporary files and folders located inside following directory:
+A python script which will delete all windows temporary files and folders located inside following directory:
 ```
 C:/Users/UserName/AppData/Local/Temp
 ```
