@@ -11,5 +11,5 @@ C:/Users/UserName/AppData/Local/Temp
 
 ## Running
 ```
-python index.py
+python TempClean.py
 ```
